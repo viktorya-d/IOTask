@@ -1,0 +1,5 @@
+/Study
+|__second.txt
+|__first.txt
+|__/Study/Example
+ |__third.txt
